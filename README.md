@@ -1,5 +1,5 @@
 # PayWeb_OsCommerce
-## PayGate osCommerce plugin v2.3.6 for osCommerce v2.3.4.1
+## PayGate osCommerce plugin v2.3.6 for osCommerce v2.3.4
 
 This is the PayGate PayWeb3 plugin for OsCommerce. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
