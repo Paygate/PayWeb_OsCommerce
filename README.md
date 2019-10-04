@@ -1,10 +1,10 @@
 # PayWeb_OsCommerce
-## DPO PayGate osCommerce plugin v2.3.6 for osCommerce v2.3.4.1
+## PayGate osCommerce plugin v2.3.6 for osCommerce v2.3.4.1
 
-This is the DPO PayGate PayWeb3 plugin for OsCommerce. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+This is the PayGate PayWeb3 plugin for OsCommerce. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
-[![How To Setup DPO | PayGate PayWeb for OsCommerce](https://www.appinlet.com/wp-content/uploads/2018/09/OsCommerce-Integration.jpg)](https://www.youtube.com/watch?v=mgyA9_TNBeI "How To Setup DPO | PayGate PayWeb for OsCommerce")
+[![How To Setup PayGate PayWeb for OsCommerce](https://www.appinlet.com/wp-content/uploads/2018/09/OsCommerce-Integration.jpg)](https://www.youtube.com/watch?v=mgyA9_TNBeI "How To Setup PayGate PayWeb for OsCommerce")
 
 Please navigate to the [releases page](https://github.com/PayGate/PayWeb_OsCommerce/releases), download the latest release (v2.3.6) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
 
