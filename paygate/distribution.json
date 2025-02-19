@@ -1,0 +1,28 @@
+{
+  "description": "Paygate",
+  "name": "Paygate",
+  "type": "payment",
+  "version": "3.0.0",
+  "authors": {
+    "name": "App InLet",
+    "email": "help@payfast.io",
+    "homepage": "https://payfast.io/",
+    "role": "Developer"
+  },
+  "src": [
+    {
+      "action": "add",
+      "type": "file",
+      "path": "paygate.php"
+    },
+    {
+      "action": "copy",
+      "type": "dir",
+      "path": "lib/paygate"
+    }
+  ],
+  "require": {
+    "platform": "True"
+  },
+  "class": "paygate"
+}

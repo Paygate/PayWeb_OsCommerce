@@ -1,17 +1,28 @@
 # PayWeb_OsCommerce
-## PayGate osCommerce plugin v2.3.6 for osCommerce v2.3.4
 
-This is the PayGate PayWeb3 plugin for OsCommerce. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
+## Paygate OsCommerce plugin v3.0.0 for OsCommerce v4.14
+
+This is the Paygate plugin for OsCommerce. Please feel free to contact the Payfast support team at
+support@payfast.help should you require any assistance.
 
 ## Installation
-[![How To Setup PayGate PayWeb for OsCommerce](https://www.appinlet.com/wp-content/uploads/2018/09/OsCommerce-Integration.jpg)](https://www.youtube.com/watch?v=mgyA9_TNBeI "How To Setup PayGate PayWeb for OsCommerce")
 
-Please navigate to the [releases page](https://github.com/PayGate/PayWeb_OsCommerce/releases), download the latest release (v2.3.6) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
+### Step 1
+
+- Login to the OsCommerce admin area, then navigate to App Shop.
+- Navigate to Local Storage, click Choose file,
+  select [paygate.zip](https://github.com/Paygate/PayWeb_OsCommerce/releases/download/v3.0.0/paygate.zip) and then click
+  Upload.
+- To deploy, click the green + circle.
+- Choose your preferred sales channel, then click Ok.
+
+### Step 2
+
+- Go to Modules -> Payment -> Online.
+- Select the Paygate payment method by clicking it.
+- Click the Edit button on the right-hand pane.
+- Set your configuration values, then click
 
 ## Collaboration
 
 Please submit pull requests with any tweaks, features or fixes you would like to share.
-
-## About PayWeb
-
-[PayWeb](https://www.paygate.co.za/paygate-products/payweb/) is an easy and secure way to accept payments online. The Customer makes payments using [PayGate’s](https://www.paygate.co.za/) secure hosted payment page. PayWeb is mobile-friendly making it compatible across all mobile devices. By selecting PayWeb, the Merchant gets immediate access to an array of Payment Methods, making it easier to get paid.
